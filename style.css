@@ -1,0 +1,14 @@
+.p4_coin {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 3rem;
+    background-color: white;
+}
+
+.p4_board {
+    background-color: #19B5FE;
+}
+
+#titleDiv {
+    display: flex;
+}
